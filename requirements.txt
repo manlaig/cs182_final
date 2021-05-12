@@ -1,0 +1,10 @@
+nltk
+pyspellchecker
+transformers
+sentencepiece
+keras
+np
+tqdm
+
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch==1.7.1+cu101

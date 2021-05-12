@@ -1,0 +1,9 @@
+root_folder = "./"
+hidden_size = 256
+num_layers = 2
+batch_size = 64
+epochs = 5
+lr = 5e-3
+input_size = 300
+output_size = 11
+dropout = 0.3
